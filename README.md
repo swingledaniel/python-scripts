@@ -1,1 +1,1 @@
-# Implementations of various functions
+# Personal coding projects and functions
